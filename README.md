@@ -1,7 +1,7 @@
-# Letter Recognition Modelling Using Machine Learning
+# Letter Recognition Modelling 
 
 ## Project Overview
-This project focuses on letter recognition using classical machine learning techniques. The aim is to develop accurate classification models capable of identifying alphabetic characters based on extracted numerical features.
+This project focuses on letter recognition using classical data science techniques. The aim is to develop accurate classification models capable of identifying alphabetic characters based on extracted numerical features.
 
 The project applies k nearest neighbours and decision tree classifiers to the letter recognition dataset. These models are evaluated and compared to assess their effectiveness in solving a foundational pattern recognition problem that has wide applicability across real world domains such as optical character recognition and document analysis.
 
